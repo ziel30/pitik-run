@@ -1,2 +1,0 @@
-# pitik-run
- Umbi Game
